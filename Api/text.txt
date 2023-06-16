@@ -1,0 +1,6 @@
+mongodb+srv://swarupwasnik13:<password>@cluster0.yqsqj1d.mongodb.net/?retryWrites=true&w=majority
+
+swarupwasnik13
+twinkle
+KCUo1tZ8tNFQVccl
+new -mongodb+srv://swarupwasnik13:<password>@cluster0.facvzgb.mongodb.net/
